@@ -4031,8 +4031,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:657px;
-  height:140px;
+  width:500px;
+  height:252px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -4052,8 +4052,8 @@
   position:absolute;
   left:241px;
   top:526px;
-  width:657px;
-  height:140px;
+  width:500px;
+  height:252px;
   font-family:'Microsoft YaHei UI';
   font-weight:400;
   font-style:normal;
@@ -4066,8 +4066,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:657px;
-  white-space:nowrap;
+  width:500px;
+  word-wrap:break-word;
 }
 #u1971_div {
   border-width:0px;
