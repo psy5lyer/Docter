@@ -12,51 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u110_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:820px;
-  height:480px;
-}
-#u110 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:820px;
-  height:480px;
-}
-#u110_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
 #u111_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:438px;
-  height:42px;
+  width:820px;
+  height:480px;
 }
 #u111 {
   border-width:0px;
   position:absolute;
-  left:355px;
-  top:82px;
-  width:438px;
-  height:42px;
-  font-family:'微软雅黑';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  line-height:24px;
+  left:0px;
+  top:0px;
+  width:820px;
+  height:480px;
 }
 #u111_text {
   border-width:0px;
@@ -79,7 +49,7 @@
   border-width:0px;
   position:absolute;
   left:355px;
-  top:197px;
+  top:82px;
   width:438px;
   height:42px;
   font-family:'微软雅黑';
@@ -103,15 +73,15 @@
   left:0px;
   top:0px;
   width:438px;
-  height:117px;
+  height:42px;
 }
 #u113 {
   border-width:0px;
   position:absolute;
   left:355px;
-  top:271px;
+  top:197px;
   width:438px;
-  height:117px;
+  height:42px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -127,7 +97,37 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u114_div {
+#u114_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:438px;
+  height:117px;
+}
+#u114 {
+  border-width:0px;
+  position:absolute;
+  left:355px;
+  top:271px;
+  width:438px;
+  height:117px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:24px;
+}
+#u114_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u115_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -147,7 +147,7 @@
   font-size:14px;
   line-height:28px;
 }
-#u114 {
+#u115 {
   border-width:0px;
   position:absolute;
   left:293px;
@@ -160,7 +160,7 @@
   font-size:14px;
   line-height:28px;
 }
-#u114_text {
+#u115_text {
   border-width:0px;
   position:absolute;
   left:0px;
