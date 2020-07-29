@@ -59,6 +59,13 @@
 .paragraph {
   text-align:left;
 }
+.connector {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#389BFD;
+}
 .line {
 }
 .icon {
